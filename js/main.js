@@ -22,7 +22,7 @@
             {
                 title: "Nope your too late i already died",
                 artist: "wifiskeleton",
-                cover: "img/nopeimg.jpeg",
+                cover: "img/nopeim.jpeg",
                 src: "audio/Nope.mp3"
             },
             {
